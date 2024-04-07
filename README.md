@@ -1,4 +1,4 @@
-# Real time voice translation 
+# Otty - Real time voice translation 
 
 OpenAI's Whisper for transcript and ChatCompletion for translation.
 
