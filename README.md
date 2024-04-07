@@ -53,9 +53,3 @@ Run the WebApp:
 
 - run `yarn start`
 
-
-```json
-INFO - error_code=Timeout error_message='The operation was timeout.' error_param=None error_type=None message='OpenAI API error received' stream_error=False
-Error during translate:  The operation was timeout. { "error": { "code": "Timeout", "message": "The operation was timeout." } } 408 {'error': {'code': 'Timeout', 'message': 'The operation was timeout.'}} {'Content-Length': '75', 'Content-Type': 'application/json', 'apim-request-id': 'a0cecbef-1a20-406e-850a-138d89755b6c', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-ms-region': 'South Central US', 'Date': 'Tue, 28 Mar 2023 19:15:28 GMT'}
-```
-
