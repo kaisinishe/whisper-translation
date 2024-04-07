@@ -1,6 +1,8 @@
-# Real time voice translation utilizing OpenAI's Whisper for transcript and ChatCompletion for translation.
+# Real time voice translation 
 
-![](./img/2023-03-29-19-11-23.png)
+OpenAI's Whisper for transcript and ChatCompletion for translation.
+
+![](./img/_848c080e-2ccb-460f-badb-e8e1f454be7c.jpg)
 
 ![](./img/2023-03-29-20-35-51.png)
 
